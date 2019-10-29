@@ -1,0 +1,12 @@
+{
+    "name": "asus/wp.pol",
+    "authors": [
+        {
+            "name": "pollmix",
+            "email": "polboy777@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^3.6"
+    }
+}
